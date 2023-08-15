@@ -1,5 +1,5 @@
 //splash screen
-
+/*
 let intro = document.querySelector('.intro');
 
 window.addEventListener('DOMContentLoaded',()=>{
@@ -7,3 +7,4 @@ window.addEventListener('DOMContentLoaded',()=>{
     intro.style.top='-100vh';
   }, 2300)
 })
+*/
