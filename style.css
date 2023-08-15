@@ -8,6 +8,7 @@
    
     
 }
+/*
 .intro{
     width: 100%;
     height: 100vh;
@@ -34,12 +35,16 @@
     to{
         opacity: 100%;
     }
-}
-#nav-bar{
+} */
+.sticky{
     position: sticky;
     top: 0;
     left: 0;
     z-index: 2;
+
+}
+#nav-bar{
+   
 }
 .navbar{
     
@@ -87,7 +92,7 @@
     width: 100%;
 }
 
-/*splash and loader aimation */
+/*splash and loader aimation 
 .splash{
     width: 100%;
     height: 100vh;
@@ -111,7 +116,7 @@
     to{
         opacity: 1;
     }
-}
+} */
 /*services*/
 .ln{
     width: 100%;
